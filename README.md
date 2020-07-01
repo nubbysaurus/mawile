@@ -1,2 +1,4 @@
 # mawile
-I2C and SPI sensor interface board, plus 4 ADCS. (;;
+Provide a backplane for data transfer with this handy board.
+## updates
+* MKII : separating ADCs into a single boards / ADC; see eevee for more information.

@@ -193,6 +193,8 @@ Text Notes 1350 2950 0    60   Italic 12
 Pi/O
 Text Notes 5050 900  0    60   Italic 12
 ADCs
+Text Notes 8550 950  0    60   Italic 12
+I2C_Extended
 $Comp
 L Connector:Conn_01x08_Female J1
 U 1 1 5E3A2B70
