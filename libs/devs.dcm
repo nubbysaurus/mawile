@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9511A
+D I2C Bus and SMBus Buffer
+K Bidirectional 1-MHz I2C SMBus Buffer
+F www.ti.com/lit/ds/symlink/tca9511A.pdf
+$ENDCMP
+#
+#End Doc Library

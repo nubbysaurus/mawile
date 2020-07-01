@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TCA9511A
-D 2-Bit Bidirectional 1-MHz, I2C Bus and SMBus Voltage-Level Translator With 8-kV HBM ESD
-K Bidirectional 1-MHz I2C SMBus Voltage-Level Translator 8kV HBM ESD
-F www.ti.com/lit/ds/symlink/tca9406.pdf
-$ENDCMP
-#
-#End Doc Library

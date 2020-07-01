@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name sableye-rescue)(type Legacy)(uri ${KIPRJMOD}/sableye-rescue.lib)(options "")(descr ""))
+  (lib (name sableye-rescue)(type Legacy)(uri ${KIPRJMOD}/sableye-rescue.lib)(options "")(descr "")(disabled))
   (lib (name mawile-rescue)(type Legacy)(uri ${KIPRJMOD}/mawile-rescue.lib)(options "")(descr ""))
 )
